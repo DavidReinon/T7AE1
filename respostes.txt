@@ -27,3 +27,5 @@
 17. a (con correcion de la respuesta - 64 subredes)
 
 18. b (los host estan mal, son 510)
+
+20. d
